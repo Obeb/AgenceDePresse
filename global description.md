@@ -14,5 +14,8 @@
 *materiél(divers materiel)
 *recette et les depenses de l'agence(payement des fournisseurs, des journalistes) .
 
+office( an agency can have more than one office) _optional
+
+
 
 
